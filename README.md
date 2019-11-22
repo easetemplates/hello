@@ -1,2 +1,2 @@
 # hello
-just one
+just one repositroy add.
